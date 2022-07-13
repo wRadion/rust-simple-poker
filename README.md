@@ -1,6 +1,9 @@
 # rust-simple-poker
 My first little Rust project: a simple poker console game.
 
+The goal of this project was to practice Rust!
+It's not supposed to be used anywhere but take what you want from it!
+
 # Example
 An example of a game:
 ```
